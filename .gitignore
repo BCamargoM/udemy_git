@@ -1,0 +1,9 @@
+passwords.txt
+*.class
+#todas las lineas 
+log/*.log 
+node_modules/
+#todo lo que este en esta carpeta
+
+librerias/
+!librerias/archivos_*.md igonre todo lo que esta en librerias excepto  los archivos_*.md
